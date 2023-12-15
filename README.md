@@ -39,3 +39,4 @@ Sinto que meu interesse pela sétima arte e minha dedicação às artes marciais
 
 ## 📓 Estudando Atualmente
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
