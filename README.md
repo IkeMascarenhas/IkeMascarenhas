@@ -18,9 +18,15 @@ Também possuo conhecimentos em metodologia ágil, Design Gráfico e SEO.
 
 
 ## 🚀 Sobre mim
-Meus principais interesses são tecnologia, cinema e lutas. Desde pequeno eu sabia que iria seguir carreira em algo relacionado a tecnologia, mas ainda precisava escolher uma área. Não me identifiquei com a programação desde o primeiro contato, na verdade fiquei assustado e me perguntando se aquilo realmente era pra mim, mas quando passei a me dedicar de verdade acabei adorando essa área. 
+Sou um desenvolvedor front-end com uma sólida experiência na construção de diversas aplicações web. Atualmente, meu domínio se estende pelas seguintes tecnologias: HTML5, CSS3, JavaScript, SASS, Bootstrap, React e styled-components. Além disso, possuo habilidades em design gráfico, UX/UI design e SEO aprimorando a experiência do usuário em cada projeto. 
 
-Sinto que meu interesse pela sétima arte e minha dedicação às artes marciais complementam minhas habilidades na programação, trazendo uma dose extra de criatividade e disciplina ao meu trabalho.
+Busco estar sempre atualizado com as mais recentes tecnologias pois sou movido pela sede de aprendizado e encaro desafios como oportunidades de crescimento.
+
+Além do meu domínio nas tecnologias front-end, também possuo conhecimentos em PHP e MySQL no âmbito do desenvolvimento back-end. Essa dualidade de habilidades me permite criar soluções completas e eficientes.
+
+Minha experiência em gerenciamento de equipe e metodologias ágeis foi adquirida ao ser responsável por gerenciar meu grupo de TCC, resultando na seleção do projeto para a Feira de Inovação e Criatividade da FIEB Tech. Durante esse evento, desempenhei um papel crucial ao apresentar nosso projeto ao público e empresários locais.
+
+Destaco como minhas principais soft skills a comunicação eficaz, resiliência, colaboração, organização e liderança. Acredito que essas habilidades são fundamentais não apenas para o desenvolvimento de projetos bem-sucedidos, mas também para criar um ambiente de trabalho produtivo e colaborativo.
 
 
 ## 🔗 Entre em contato comigo
