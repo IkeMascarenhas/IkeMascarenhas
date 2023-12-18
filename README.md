@@ -25,7 +25,6 @@ Sinto que meu interesse pela sétima arte e minha dedicação às artes marciais
 
 ## 🔗 Entre em contato comigo
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ike_mascarenhas/)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 
 
 ## 📊 Stats
