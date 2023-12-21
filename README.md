@@ -46,6 +46,8 @@ Destaco como minhas principais soft skills a comunicação eficaz, resiliência,
 
 [MUVPages](https://ikemascarenhas.github.io/MUVPages/) - Páginas estáticas do meu projeto de TCC (Apenas Mobile)
 
+[Validador de Senha](https://ikemascarenhas.github.io/Validador-de-Senha/) - Usa um conjunto de regras para validar a senha inserida pelo usuário.
+
 ## 📓 Estudando Atualmente
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
