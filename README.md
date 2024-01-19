@@ -18,7 +18,7 @@ Também possuo conhecimentos em metodologia ágil, Design Gráfico e SEO.
 
 
 ## 🚀 Sobre mim
-Sou um desenvolvedor front-end com uma sólida experiência na construção de diversas aplicações web. Atualmente, meu domínio se estende pelas seguintes tecnologias: HTML5, CSS3, JavaScript, SASS, Bootstrap, React e styled-components. Além disso, possuo habilidades em design gráfico, UX/UI design e SEO aprimorando a experiência do usuário em cada projeto. 
+Sou um desenvolvedor front-end com uma sólida experiência na construção de diversas aplicações web. Atualmente, meu domínio se estende pelas seguintes tecnologias: HTML5, CSS3, JavaScript, SASS, Bootstrap, React, typescript e styled-components. Além disso, possuo habilidades em design gráfico, UX/UI design e SEO aprimorando a experiência do usuário em cada projeto. 
 
 Busco estar sempre atualizado com as mais recentes tecnologias pois sou movido pela sede de aprendizado e encaro desafios como oportunidades de crescimento.
 
