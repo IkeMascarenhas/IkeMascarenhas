@@ -31,7 +31,7 @@ Destaco como minhas principais soft skills a comunicação eficaz, resiliência,
 
 ## 🔗 Entre em contato comigo
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ike_mascarenhas/)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/kaique-mascarenhas-web-developer)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaique-mascarenhas-web-developer)
 
 
 ## 📊 Stats
