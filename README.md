@@ -22,13 +22,15 @@ Também possuo conhecimentos em metodologias ágeis, Design Gráfico e SEO.
 
 
 ## 🚀 Sobre mim
-Sou um desenvolvedor front-end com uma sólida experiência na construção de diversas aplicações web. Atualmente, meu domínio se estende pelas seguintes tecnologias: HTML5, CSS3, JavaScript, SASS, Bootstrap, React, typescript e styled-components. Além disso, possuo habilidades em design gráfico, UX/UI design e SEO aprimorando a experiência do usuário em cada projeto. 
+Olá! Sou o Kaique, um desenvolvedor full-stack apaixonado por transformar ideias em soluções digitais inovadoras.
 
-Busco estar sempre atualizado com as mais recentes tecnologias pois sou movido pela sede de aprendizado e encaro desafios como oportunidades de crescimento.
+Além do meu interesse pelo desenvolvimento de software, também tenho uma paixão por lutas e cinema. Acredito que essa combinação única de interesses me proporciona uma perspectiva diversificada, inspirando-me a abordar os problemas de maneiras criativas e eficazes. Assim como em uma cena cinematográfica, vejo o desenvolvimento de software como uma narrativa dinâmica, onde cada linha de código contribui para a história final.
 
-Além do meu domínio nas tecnologias front-end, também possuo conhecimentos em PHP e MySQL no âmbito do desenvolvimento back-end. Essa dualidade de habilidades me permite criar soluções completas e eficientes.
+Meu conhecimento em desenvolvimento front-end se estende pelas seguintes tecnologias: HTML5, CSS3, JavaScript, SASS, Bootstrap, React, Typescript, Tailwind, styled-components e Git/Github. Além disso, possuo habilidades em design gráfico, UX/UI design e SEO aprimorando a experiência do usuário em cada projeto.
 
-Minha experiência em gerenciamento de equipe e metodologias ágeis foi adquirida ao ser responsável por gerenciar meu grupo de TCC, resultando na seleção do projeto para a Feira de Inovação e Criatividade da FIEB Tech. Durante esse evento, desempenhei um papel crucial ao apresentar nosso projeto ao público e empresários locais.
+No âmbito de desenvolvimento back-end possuo conhecimentos nas seguintes tecnologias: PHP, NodeJS, Express, MongoDB e Mongoose.
+
+Adquiri experiência em gerenciamento de equipe e metodologias ágeis ao ser responsável por gerenciar meu grupo de TCC, resultando na seleção do projeto para a Feira de Inovação e Criatividade da FIEB Tech. Durante esse evento, desempenhei um papel crucial ao apresentar nosso projeto ao público e empresários locais.
 
 Destaco como minhas principais soft skills a comunicação eficaz, resiliência, colaboração, organização e liderança. Acredito que essas habilidades são fundamentais não apenas para o desenvolvimento de projetos bem-sucedidos, mas também para criar um ambiente de trabalho produtivo e colaborativo.
 
