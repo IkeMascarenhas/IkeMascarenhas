@@ -12,12 +12,7 @@
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-Também possuo conhecimentos em metodologias ágeis, Design Gráfico e SEO.
-
-
-
-
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 
@@ -44,6 +39,7 @@ Destaco como minhas principais soft skills a comunicação eficaz, resiliência,
 ![IkeMascarenhas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ikeMascarenhas&show_icons=true&theme=radical)
 
 ![Linguages Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=IkeMascarenhas&layout=compact)
+
 ## 💻 Projetos
 
 [Ecommerce Product Page](https://ikemascarenhas.github.io/Ecommerce-product-page/) - Página de produto que permite que o usuário adicione e remova itens do carrinho e veja as imagens do produto através de um slider (Apenas Mobile).
@@ -54,6 +50,10 @@ Destaco como minhas principais soft skills a comunicação eficaz, resiliência,
 
 [Validador de Senha](https://ikemascarenhas.github.io/Validador-de-Senha/) - Usa um conjunto de regras para validar a senha inserida pelo usuário.
 
-## 📓 Estudando Atualmente
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+[To Do List](https://to-do-list-pied-five.vercel.app/) - To Do list que permite que o usuário adicione e exclua seus afazeres, com a possibilidade de trocar entre tema claro e escuro.
+
+[API de Login](https://github.com/IkeMascarenhas/Auth-Node-JWT) - API que cuida da parte de Registro e login do usuário. Manda pra um banco de dados MongoDB e faz a autenticação de token nas requisições.
+
+[Formulário com PHP](https://github.com/IkeMascarenhas/PHP-Form) - Projeto de formulário com PHP que pega os dados do usuário e envia para um banco de dados MySQL.
+
 
