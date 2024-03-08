@@ -42,6 +42,8 @@ Destaco como minhas principais soft skills a comunicação eficaz, resiliência,
 
 ## 💻 Projetos
 
+[Rastreador de IP](https://ip-tracker-kaique.vercel.app/) - Fornece informações sobre o IP fornecido pelo usuário e mostra a localização em um mapa dinâmico.
+
 [Ecommerce Product Page](https://ikemascarenhas.github.io/Ecommerce-product-page/) - Página de produto que permite que o usuário adicione e remova itens do carrinho e veja as imagens do produto através de um slider (Apenas Mobile).
 
 [WebApp de Previsão do Tempo](https://ikemascarenhas.github.io/Previsao-do-Tempo-com-WeatherAPI/) - Usa uma API para checar os dados de uma região determinada pelo usuário.
@@ -55,5 +57,6 @@ Destaco como minhas principais soft skills a comunicação eficaz, resiliência,
 [API de Login](https://github.com/IkeMascarenhas/Auth-Node-JWT) - API que cuida da parte de Registro e login do usuário. Manda pra um banco de dados MongoDB e faz a autenticação de token nas requisições.
 
 [Formulário com PHP](https://github.com/IkeMascarenhas/PHP-Form) - Projeto de formulário com PHP que pega os dados do usuário e envia para um banco de dados MySQL.
+
 
 
