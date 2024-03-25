@@ -42,6 +42,8 @@ Destaco como minhas principais soft skills a comunicação eficaz, resiliência,
 
 ## 💻 Projetos
 
+[Chat App](https://github.com/IkeMascarenhas/Chat-App) - Permite que os usuários façam um login com nome e a sala que desejam entrar e conversem entre si.
+
 [Rastreador de IP](https://ip-tracker-kaique.vercel.app/) - Fornece informações sobre o IP fornecido pelo usuário e mostra a localização em um mapa dinâmico.
 
 [Ecommerce Product Page](https://ikemascarenhas.github.io/Ecommerce-product-page/) - Página de produto que permite que o usuário adicione e remova itens do carrinho e veja as imagens do produto através de um slider (Apenas Mobile).
