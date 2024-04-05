@@ -48,17 +48,13 @@ Destaco como minhas principais soft skills a comunicação eficaz, resiliência,
 
 [Ecommerce Product Page](https://ikemascarenhas.github.io/Ecommerce-product-page/) - Página de produto que permite que o usuário adicione e remova itens do carrinho e veja as imagens do produto através de um slider (Apenas Mobile).
 
+[API para blog](https://github.com/IkeMascarenhas/BlogAPI) - API para blog que permite a criação e autenticação e usuário e a criação de posts.
+
 [WebApp de Previsão do Tempo](https://ikemascarenhas.github.io/Previsao-do-Tempo-com-WeatherAPI/) - Usa uma API para checar os dados de uma região determinada pelo usuário.
 
 [MUVPages](https://ikemascarenhas.github.io/MUVPages/) - Páginas estáticas do meu projeto de TCC (Apenas Mobile)
 
-[Validador de Senha](https://ikemascarenhas.github.io/Validador-de-Senha/) - Usa um conjunto de regras para validar a senha inserida pelo usuário.
-
 [To Do List](https://to-do-list-pied-five.vercel.app/) - To Do list que permite que o usuário adicione e exclua seus afazeres, com a possibilidade de trocar entre tema claro e escuro.
 
 [API de Login](https://github.com/IkeMascarenhas/Auth-Node-JWT) - API que cuida da parte de Registro e login do usuário. Manda pra um banco de dados MongoDB e faz a autenticação de token nas requisições.
-
-[Formulário com PHP](https://github.com/IkeMascarenhas/PHP-Form) - Projeto de formulário com PHP que pega os dados do usuário e envia para um banco de dados MySQL.
-
-
 
