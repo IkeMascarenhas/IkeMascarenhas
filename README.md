@@ -48,7 +48,7 @@ Destaco como minhas principais soft skills a comunicação eficaz, resiliência,
 
 [Ecommerce Product Page](https://ikemascarenhas.github.io/Ecommerce-product-page/) - Página de produto que permite que o usuário adicione e remova itens do carrinho e veja as imagens do produto através de um slider (Apenas Mobile).
 
-[API para blog](https://github.com/IkeMascarenhas/BlogAPI) - API para blog que permite a criação e autenticação e usuário e a criação de posts.
+[API para blog](https://github.com/IkeMascarenhas/BlogAPI) - API para blog que permite a criação e autenticação de usuário e a criação de posts.
 
 [WebApp de Previsão do Tempo](https://ikemascarenhas.github.io/Previsao-do-Tempo-com-WeatherAPI/) - Usa uma API para checar os dados de uma região determinada pelo usuário.
 
