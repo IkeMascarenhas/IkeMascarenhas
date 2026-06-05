@@ -26,17 +26,3 @@ Tenho um interesse profundo em evoluir nas áreas de **Cloud Computing**, **Infr
 
 ## 🔗 Entre em contato comigo
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaique-mascarenhas/)
-
-## 📊 GitHub Stats
-![IkeMascarenhas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IkeMascarenhas&show_icons=true&theme=radical)
-
-![Linguagens Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=IkeMascarenhas&layout=compact)
-
-## 💻 Projetos em Destaque
-
-*(Nota: Atualize os links abaixo com os repositórios reais das suas automações)*
-
-*   **[Sistema de Monitoramento Proativo](#)** - Solução desenvolvida do zero utilizando scripts em Bash, integração com Banco de Dados e painel em PHP para monitorar e alertar instabilidades em serviços críticos da infraestrutura.
-*   **[Automação de Recursos e Gestão com PL/SQL](#)** - Projeto acadêmico de automação para a disciplina de ESG, focado no monitoramento de recursos e energia utilizando triggers em banco de dados.
-*   **[Repositório de Scripts Administrativos](#)** - Coleção de scripts desenvolvidos em Python e PowerShell para automatizar tarefas rotineiras de suporte e gestão de acessos.
-*   **[JobBridge](#)** - Aplicativo mobile com foco em ESG, desenvolvido para filtrar e conectar populações vulneráveis a oportunidades de emprego.
